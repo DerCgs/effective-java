@@ -1,4 +1,4 @@
-package org.dercg.effectivejava.a_06_immutable_object;
+package org.dercg.effectivejava.a_06_avoid_immutable_object;
 
 import java.util.regex.Pattern;
 // 避免创建不必要的对象
